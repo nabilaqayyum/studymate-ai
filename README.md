@@ -12,7 +12,7 @@
 
 ## 🌐 Live Demo
 
-🔗 **Vercel:** https://YOUR-VERCEL-LINK.vercel.app
+🔗 **Vercel:** studymate-ai-roan.vercel.app
 
 *(Replace this with your actual Vercel URL.)*
 
@@ -140,25 +140,7 @@ To deploy:
 
 ---
 
-## 📸 Screenshots
 
-### Home Page
-
-*(Add Screenshot Here)*
-
----
-
-### AI Analysis
-
-*(Add Screenshot Here)*
-
----
-
-### Deployed Application
-
-*(Add Screenshot Here)*
-
----
 
 ## 🎯 Future Improvements
 
